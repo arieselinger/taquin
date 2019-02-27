@@ -1,0 +1,21 @@
+td, table {
+    text-align: center;
+    margin : auto;
+}
+
+table {
+
+    box-shadow: 0px 0px 10px grey;
+
+}
+
+#blanc {
+    background-color: transparent;
+    box-shadow: 1px 1px 10px inset grey;
+    
+
+}
+
+h2 {
+    text-align: center;
+}
